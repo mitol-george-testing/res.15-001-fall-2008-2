@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c9325e78-1760-933f-7bdc-a9df16b71044"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "MIT Sloan LearningEdge",
+  "course_description": "[LearningEdge](https://mitsloan.mit.edu/LearningEdge/) is a free learning resource for management educators and students provided open and available to the world. Developed by MIT Sloan faculty and students, this collection of teaching case studies and management simulation games focuses on areas in which Sloan's innovative research and teaching are on the cutting edge, including action learning, entrepreneurship, leadership and ethics, operations management, strategy, sustainability, and system dynamics.\n\nLearningEdge was formerly MIT Sloan Teaching Innovation Resources (MSTIR).\n\n[Online Publication](https://mitsloan.mit.edu/LearningEdge/)\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.15-001",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}

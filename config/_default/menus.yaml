@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-a84abe4336ec4fbbbaf49cf3b345c0f9
+  name: Online Publication
+  url: https://mitsloan.mit.edu/LearningEdge/Pages/default.aspx
+  weight: 1000
